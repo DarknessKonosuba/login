@@ -15,6 +15,8 @@ Acciones:
 ![image](https://user-images.githubusercontent.com/87624300/143725083-22edba25-38ee-4019-8202-6c9faa6739d5.png)
 ![image](https://user-images.githubusercontent.com/87624300/143725085-25f0ad74-35d4-4bfa-849c-7ab6740130fd.png)
 ![image](https://user-images.githubusercontent.com/87624300/143725087-c7ba9f74-0a74-40f7-a5ce-7b78888a710a.png)
+
+
 ![image](https://user-images.githubusercontent.com/87624300/143725090-0b985a7e-c3cf-4eb7-9966-7f1ce38d5a75.png)
 ![image](https://user-images.githubusercontent.com/87624300/143725092-df2b0dfe-0f32-4cd0-8901-ec6ba7e03f7a.png)
 ![image](https://user-images.githubusercontent.com/87624300/143725093-522b1ea7-c190-43df-b08d-11bab09ffdcb.png)
