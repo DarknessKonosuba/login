@@ -1,4 +1,4 @@
-Login para enviar correos.
+# Login para enviar correos.
 
 Solo trabajé con un correo para iniciar sesión:
 moreno@gmail.com (clave: 1234)
